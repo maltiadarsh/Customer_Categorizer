@@ -135,7 +135,7 @@ docker run -d -p 5000:5000 <IMAGE_NAME>
 
 ## Deployment Architecture -
 
-![deployment](https://user-images.githubusercontent.com/104005791/199660875-c8e63457-432a-44cb-8a95-800870f3da15.png)
+![deployment](https://github.com/maltiadarsh/Customer_Categorizer/blob/main/image/Deployment%20Architecture.png)
 
 ## Models Used
 
